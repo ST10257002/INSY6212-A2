@@ -2,13 +2,9 @@
 
 **IIE-VC / INSY6212 (Group 2)**
 
-## Question
-
-Q.3.2) Create an issue log to reflect the activities identified in the Work Breakdown Structure (WBS).
-
 ## Team
 
-- ST10257002
-- ST00000000
-- ST00000000
-- ST00000000
+- ST10257002 (Project Manager, Risk Manager)
+- ST10326084 (Media Team, Documentation Specialist)
+- ST10187287 (QA Tester, Developer)
+- ST10293362 (Security Analyst, UI/UX Designer)
